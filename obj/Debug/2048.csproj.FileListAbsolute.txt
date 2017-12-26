@@ -1,0 +1,13 @@
+C:\Users\Zorn\source\repos\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\Zorn\source\repos\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\Zorn\source\repos\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\Zorn\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\Zorn\source\repos\2048\2048\bin\Debug\ColorPicker.exe
+C:\Users\Zorn\source\repos\2048\2048\bin\Debug\ColorPicker.pdb
+C:\Users\Zorn\source\repos\2048\2048\obj\Debug\ColorPicker.Properties.Resources.resources
+C:\Users\Zorn\source\repos\2048\2048\obj\Debug\ColorPicker.exe
+C:\Users\Zorn\source\repos\2048\2048\obj\Debug\ColorPicker.pdb
+C:\Users\Zorn\source\repos\2048\2048\bin\Debug\ColorPicker.exe.manifest
+C:\Users\Zorn\source\repos\2048\2048\bin\Debug\ColorPicker.application
+C:\Users\Zorn\source\repos\2048\2048\obj\Debug\ColorPicker.exe.manifest
+C:\Users\Zorn\source\repos\2048\2048\obj\Debug\ColorPicker.application
